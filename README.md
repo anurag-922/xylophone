@@ -1,6 +1,6 @@
 # xylophone
 
-A new Flutter project.
+An instrumental app where you play sounds by clicking on tabs.
 
 ## Getting Started
 
